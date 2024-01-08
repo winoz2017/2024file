@@ -21,7 +21,7 @@ function App() {
       setImgData(updatedImgList);
       setImageUploaded(false);
     } catch (error) {
-      console.error('리스트 불러오기 에러');
+      console.error('리스트 불러오기 에러dd');
     }
   };
 
